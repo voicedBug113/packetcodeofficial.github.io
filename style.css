@@ -1,0 +1,163 @@
+html{
+    scroll-behavior: smooth;
+}
+
+
+body {
+    text-align: center;
+    background-color: #666666;
+    margin: 0;
+    padding: 0;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&family=Source+Sans+Pro:wght@600&display=swap');
+*{
+    font-family: 'Roboto Condensed', sans-serif;
+    letter-spacing: 0.5px;
+    baackround-color: #25252A;
+}
+
+
+
+
+.container {
+    position: absolute;
+    top: 25%;
+    left: 30%;
+    transform: translate(-25%, -4%);
+}
+
+
+.btn-1 {
+    position: relative;
+    text-align: center;
+    width: 350px;
+    padding: 40px;
+    font-size: 20px;
+    color: #f41515;
+    font-family: poppins;
+    font-weight: 400;
+    border: 5px solid #3615f4;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    cursor: pointer;
+    border-radius: 100px;
+    transition: 2.5s;
+    box-shadow: 0px 8px 0px #0099e6, 0px 8px 20px,0px 8px 20px;
+}
+
+.btn-1:hover{
+    box-shadow: 0 5px 50px 0 #15f4ee inset, 0 5px 50px 0 #15f4ee,
+    0 5px 50px 0 #15f4ee inset, 0 5px 50px 0 #15f4ee;
+}
+
+
+
+.btn-2 {
+    position: relative;
+    text-align: center;
+    width: 350px;
+    padding: 40px;
+    font-size: 20px;
+    color: #f41515;
+    font-family: poppins;
+    font-weight: 100;
+    border: 5px solid #1100f8;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    cursor: pointer;
+    border-radius: 100px;
+    transition: 1.5s;
+    box-shadow: 0px 8px 0px #0099e6, 0px 8px 20px,0px 8px 20px;
+}
+.btn-2:hover{
+    box-shadow: 0 5px 50px 0 #15f4ee inset, 0 5px 50px 0 #15f4ee,
+    0 5px 50px 0 #15f4ee inset, 0 5px 50px 0 #15f4ee;
+}
+
+
+
+
+
+
+
+
+.btn-3 {
+    position: relative;
+    text-align: center;
+    width: 350px;
+    padding: 40px;
+    font-size: 20px;
+    color: #f41515;
+    font-family: poppins;
+    font-weight: 400;
+    border: 5px solid #2b15f4;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    cursor: pointer;
+    border-radius: 100px;
+    transition: 1.5s;
+    box-shadow: 0px 8px 0px #0099e6, 0px 8px 20px,0px 8px 20px;
+}
+
+.btn-3:hover{
+    box-shadow: 0 5px 50px 0 #15f4ee inset, 0 5px 50px 0 #15f4ee,
+    0 5px 50px 0 #15f4ee inset, 0 5px 50px 0 #15f4ee;
+}
+
+
+
+
+
+
+
+.btn-4 {
+    position: relative;
+    text-align: center;
+    width: 350px;
+    padding: 40px;
+    font-size: 24px;
+    color: #f41515;
+    font-family: poppins;
+    font-weight: 400;
+    border: 5px solid #2415f4;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    cursor: pointer;
+    border-radius: 100px;
+    transition: 1.5s;
+    box-shadow: 0px 8px 0px #0099e6, 0px 8px 20px,0px 8px 20px;
+}
+
+
+.btn-4:hover{
+    box-shadow: 0 5px 50px 0 #15f4ee inset, 0 5px 50px 0 #15f4ee,
+    0 5px 50px 0 #15f4ee inset, 0 5px 50px 0 #15f4ee;
+}
+
+
+
+
+
+
+.btn-5 {
+    position: relative;
+    text-align: center;
+    width: 350px;
+    padding: 40px;
+    font-size: 24px;
+    color: #f41515;
+    font-family: poppins;
+    font-weight: 400;
+    border: 5px solid #5015f4;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    cursor: pointer;
+    border-radius: 100px;
+    transition: 1.5s;
+    box-shadow: 0px 8px 0px #0099e6, 0px 8px 20px,0px 8px 20px;
+}
+
+.btn-5:hover{
+    box-shadow: 0 5px 50px 0 #15f4ee inset, 0 5px 50px 0 #15f4ee,
+    0 5px 50px 0 #15f4ee inset, 0 5px 50px 0 #15f4ee;
+}
